@@ -1,0 +1,229 @@
+body{
+
+	background-color:;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 13pt;
+	color: #6D6E71;
+	width: 100%;
+	overflow-x: hidden;
+}
+
+header{
+	position: relative;
+}
+
+.logo{
+	margin: 0em 0em 0em 20px;
+	height: 4em;
+	margin-bottom: 10px;
+
+	position: sticky;
+}
+
+.boxwhite{
+    width: 960px;
+    margin: 0 auto;
+    padding: 1em;
+    background-color: #ffffff;
+    height: 4.5em;
+    width: 100%;
+}
+
+
+h1{
+	background-color:#eee6e6;
+	padding: 0.5em;
+	font-family: 'PT Sans Narrow', sans-serif;
+	text-align: center;
+	margin: 0px;
+}
+
+ul.menu li{
+	display: inline-block;
+    padding: 0.25em 0.5em;
+    margin: 1em;
+    width: 15%;
+}
+
+
+
+table, th, td {
+   border: 2px solid #eee6e6;
+}
+
+
+table{
+	border-collapse: collapse;
+}
+
+
+th{
+
+	font-family: 'PT Sans Narrow', sans-serif;
+	font-size: 1.2em;
+}
+
+
+.menuli{
+	color: #6D6E71;
+	list-style: none;
+	text-align: center;
+	letter-spacing: 1px;
+}
+
+
+a{
+	color: #6D6E71;
+	text-decoration: none; 
+	margin: 1em;
+}
+
+li:hover{ 
+    background-color: white;
+
+}
+
+
+a:visited{
+	color: #6D6E71;
+	text-decoration: none; 
+}
+
+
+.list{
+	background-color: #eee6e6;
+	font-family: 'PT Sans Narrow', sans-serif;
+	font-size: 1.2em;
+	width: 100%;
+}
+
+
+.brighton{
+	width: 100%;
+}
+
+
+video{
+	width: 50%;
+	display: block;
+	margin: 0 auto; 
+}
+
+
+.clipp{
+
+	background-image: url("palmera.jpg");
+	background-size: 100%;
+	background-position: center;
+}
+
+
+.contacto{
+	margin: 3em;
+
+}
+
+.tabladisco li{
+	font-size: 13px;
+	margin: 0em;
+	padding: 0em;
+}
+
+.tabladisco td{
+	font-size: 13px;
+	margin: 0em;
+	padding: 1em;
+}
+
+.columnainfo{
+	width: 20%;
+	text-align: left;
+	font-size: 15px;
+	line-height: 1.5em;
+}
+
+.Fecha{
+	text-align: center;
+}
+
+.nombredisco{
+	text-align: center;
+	line-height: 3em;
+}
+
+
+ol{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+ul{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.top5{
+	display: inline-block;
+	padding: 0em;
+
+}
+
+.whiter{
+	width: 100%;
+	overflow-x: scroll;
+	height:350px;
+	white-space:nowrap;
+}
+
+.listorder {
+	display: inline-block;
+	float: left;
+}
+
+.listtwo {
+	display: none;
+	text-decoration: none;
+	position: absolute;
+}
+
+.listorder:hover .listtwo{
+	display: block;
+
+}
+
+.albumlist{
+    background-color: #58595B;
+    display: block;
+    font-size: 13px;
+}
+
+ .albumlist a{
+ 	color: white;
+ }
+
+ .albumlist:hover{
+ 	
+ }
+
+ul.listtwo li{
+	display: block;
+	margin: 0;
+	width: 11em;
+	border-top: 1px solid white;
+}
+
+.listtwo{
+	padding: 0.3em;
+
+}
+
+footer{
+	text-align: center;
+	background-color: #eee6e6;
+	clear: left;
+	padding: 1em;
+
+}
